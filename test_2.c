@@ -9,7 +9,7 @@ int main() {
     scanf("%d", &N);
 
     // for 반복문을 사용하여 합을 구하는 부분을 완성하세요.
-    for (int i = 1; _______ ; _______) {
+    for (int i = 1; i<=N;i++) {
         sum = sum + i;
     }
 

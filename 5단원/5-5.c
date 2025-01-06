@@ -2,7 +2,7 @@
 int main(void){
     int a = 10, b = 20;
     
-    if (a < 0){
+    if (a < 20){
         if (b > 0)
         {
             printf("ok\n");
