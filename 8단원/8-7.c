@@ -7,5 +7,4 @@ int main(void){
     str[1] = 'K';
     printf("%s\n", str);
 
-    return 0;
-}
+    return 0; 
